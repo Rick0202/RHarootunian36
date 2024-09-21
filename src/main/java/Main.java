@@ -22,7 +22,7 @@ public class Main {
     //A series of if statements to deterimine BMI and to get a message based on your BMI.
     
     if (bmi <= 17) {
-      System.out.println("Your BMI is " + bmi + " and you are underweight.  You need to lift weights and drink protien shakes.");
+      System.out.println("Your BMI is " + bmi + " and you are underweight.  You need to lift weights and drink protien shakes!");
       
     } else if (bmi >= 18 && bmi <= 25) {
       System.out.println("Your BMI is " + bmi + " and you are normal weight.  Keep up the good work!");
